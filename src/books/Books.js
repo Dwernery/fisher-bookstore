@@ -1,7 +1,7 @@
 import React from "react";
 import "./Books.css";
 
-export default function Book() {
+export default function Books() {
     return (
         <div className="Home">
             <div className = "lander">
